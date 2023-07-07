@@ -1,5 +1,5 @@
 {
-	"name": "miraheze/global-new-files",
+	"name": "wikiforge/global-new-files",
 	"type": "mediawiki-extension",
 	"description": "Global new files special page for MediaWiki.",
 	"homepage": "https://www.mediawiki.org/wiki/Extension:GlobalNewFiles",
@@ -19,7 +19,7 @@
 		}
 	],
 	"support": {
-		"issues": "https://phabricator.miraheze.org/tag/globalnewfiles/",
+		"issues": "https://support.wikiforge.net/tag/globalnewfiles/",
 		"wiki": "https://www.mediawiki.org/wiki/Extension:GlobalNewFiles"
 	},
 	"require": {
