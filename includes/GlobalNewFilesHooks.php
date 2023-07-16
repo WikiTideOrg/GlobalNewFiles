@@ -58,7 +58,7 @@ class GlobalNewFilesHooks {
 		$config = MediaWikiServices::getInstance()->getConfigFactory()->makeConfig( 'globalnewfiles' );
 
 		$lbFactory = MediaWikiServices::getInstance()->getDBLoadBalancerFactory();
-		$lb = $lbFactory->getMainLB( $config->get( 'CreateWikiDatabase' ) );
+		$lb = $lbFactory->getMainLB( $config->get( 'GlobalNewFilesDatabase' ) );
 
 		return $lb->getMaintenanceConnectionRef( $index, $groups, $config->get( 'CreateWikiDatabase' ) );
 	}
