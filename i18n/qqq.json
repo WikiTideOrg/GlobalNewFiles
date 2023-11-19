@@ -6,6 +6,6 @@
 	},
 	"action-viewglobalprivatefiles": "{{doc-action|viewglobalprivatefiles}}",
 	"globalnewfiles": "Display name of the GlobalNewFiles special page",
-	"globalnewfiles-description": "{{desc|what=extension|name=GlobalNewFiles|url=https://github.com/WikiForge/GlobalNewFiles}}",
+	"globalnewfiles-description": "{{desc|what=extension|name=GlobalNewFiles|url=https://github.com/WikiTideOrg/GlobalNewFiles}}",
 	"right-viewglobalprivatefiles": "{{doc-right|viewglobalprivatefiles}}"
 }
