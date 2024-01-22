@@ -1,3 +1,6 @@
+# ARCHIVED
+See [miraheze/GlobalNewFiles](https://github.com/miraheze/GlobalNewFiles)
+
 # GlobalNewFiles
 
 Developed by Miraheze.
